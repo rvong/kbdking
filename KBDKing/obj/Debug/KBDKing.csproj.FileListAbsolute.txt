@@ -1,0 +1,9 @@
+c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\bin\Debug\KBDKing.exe.config
+c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\obj\Debug\KBDKing.csprojResolveAssemblyReference.cache
+c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\obj\Debug\KBDKing.frmKBD.resources
+c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\obj\Debug\KBDKing.Properties.Resources.resources
+c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\obj\Debug\KBDKing.csproj.GenerateResource.Cache
+c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\bin\Debug\KBDKing.exe
+c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\bin\Debug\KBDKing.pdb
+c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\obj\Debug\KBDKing.exe
+c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\obj\Debug\KBDKing.pdb
