@@ -7,3 +7,12 @@ c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\bin\Debug\KB
 c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\bin\Debug\KBDKing.pdb
 c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\obj\Debug\KBDKing.exe
 c:\users\rich\documents\visual studio 2012\Projects\KBDKing\KBDKing\obj\Debug\KBDKing.pdb
+C:\Users\Rich\Desktop\CSharpKeybdHook\KBDKing\bin\Debug\KBDKing.exe.config
+C:\Users\Rich\Desktop\CSharpKeybdHook\KBDKing\obj\Debug\KBDKing.exe
+C:\Users\Rich\Desktop\CSharpKeybdHook\KBDKing\obj\Debug\KBDKing.pdb
+C:\Users\Rich\Desktop\CSharpKeybdHook\KBDKing\bin\Debug\KBDKing.exe
+C:\Users\Rich\Desktop\CSharpKeybdHook\KBDKing\bin\Debug\KBDKing.pdb
+C:\Users\Rich\Desktop\CSharpKeybdHook\KBDKing\obj\Debug\KBDKing.csprojResolveAssemblyReference.cache
+C:\Users\Rich\Desktop\CSharpKeybdHook\KBDKing\obj\Debug\KBDKing.frmKBD.resources
+C:\Users\Rich\Desktop\CSharpKeybdHook\KBDKing\obj\Debug\KBDKing.Properties.Resources.resources
+C:\Users\Rich\Desktop\CSharpKeybdHook\KBDKing\obj\Debug\KBDKing.csproj.GenerateResource.Cache
